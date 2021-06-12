@@ -1,2 +1,2 @@
 # test-repository
-This is test description
+This is a test description
