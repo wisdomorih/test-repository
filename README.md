@@ -1,4 +1,6 @@
 # test-repository
-This is a second example.
+This is a third example.
 
-I want to become a Software Guru.
+I am passionate to become a fullstack software engineer. 
+
+Learning backend programming languages like; Node.js, Python and Java.
